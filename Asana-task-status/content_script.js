@@ -1,5 +1,5 @@
 ﻿
-var $RCCompoment = '<div class="circularToggleButtonView  circularToggleButtonView--toggledOff  circularToggleButtonView--recentlyToggled taskCheckboxNodeView "><div class="circularButtonView circularToggleButtonView-button circularButtonView--small circularButtonView--onWhiteBackground circularButtonView--active"><span class="circularButtonView-label">RC</span></div></div>';
+var $RCCompoment = '<div class="circularToggleButtonView  circularToggleButtonView--toggledOff  circularToggleButtonView--recentlyToggled taskCheckboxNodeView "><div class="circularButtonView circularToggleButtonView-button circularButtonView--small circularButtonView--onWhiteBackground circularButtonView--active"><span class="circularButtonView-label">CR</span></div></div>';
 
 var taskRCStatus = {};
 
